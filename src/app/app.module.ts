@@ -8,8 +8,9 @@ import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { PrimaryComponent } from './primary/primary.component';
 import { SecondaryComponent } from './secondary/secondary.component';
-import { ContactusComponent } from './contactus/contactus.component';
+import { ContactusComponent } from './contactus/Contactus.component';
 import { ParentalcontrolComponent } from './parentalcontrol/parentalcontrol.component';
+
 
 @NgModule({
   declarations: [

@@ -1,0 +1,44 @@
+
+
+.header{
+    font-size: 21px;
+    font-weight: 800;
+    color: white;
+    /* margin-top: 18px; */
+    margin-left: 10px;
+    text-align: center;
+   
+}
+
+.secondh{
+    background-color: #487eb0;
+    color: white;
+}
+/* .nav{
+    margin-inline-start: auto;
+} */
+
+.btn-success{
+    margin-inline-start: 4px;
+}
+.welcome{
+    margin: 10px 10px;
+    margin-top: 12px;
+    padding: 12px;
+    font-size: 14px;
+}
+
+.date{
+    margin-left: 20px;
+    margin-bottom: -10px;
+}
+.covid{
+    width: 80%;
+    padding: 8px;
+    margin-left: 10%;
+}
+
+.covid p{
+    font-size: 15px;
+    color: palevioletred;
+}
